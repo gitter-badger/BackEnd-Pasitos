@@ -1,5 +1,7 @@
 # BackEnd pasitos
 
+[![Join the chat at https://gitter.im/akuaippa/BackEnd-Pasitos](https://badges.gitter.im/akuaippa/BackEnd-Pasitos.svg)](https://gitter.im/akuaippa/BackEnd-Pasitos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
   [![build status][travis-image]][travis-url]
   [![Gitter chat][gitter-image]][gitter-url]
 
