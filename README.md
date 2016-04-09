@@ -1,7 +1,7 @@
 # BackEnd pasitos
 
   [![build status][travis-image]][travis-url]
-  [![David deps][david-image]][david-url]
+  [![Gitter chat][gitter-image]][gitter-url]
 
 ## Developer documentation
   - [Change log](./History.md)
@@ -14,5 +14,5 @@
 
   [travis-image]: https://img.shields.io/travis/akuaippa/BackEnd-Pasitos/master.svg?style=flat-square
   [travis-url]: https://travis-ci.org/akuaippa/BackEnd-Pasitos
-  [david-image]: https://img.shields.io/david/akuaippa/BackEnd-Pasitos.svg?style=flat-square
-  [david-url]: https://david-dm.org/akuaippa/BackEnd-Pasitos
+  [gitter-image]: https://img.shields.io/gitter/room/nwjs/nw.js.svg
+  [gitter-url]: https://gitter.im/akuaippa/BackEnd-Pasitos

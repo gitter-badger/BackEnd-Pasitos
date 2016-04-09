@@ -1,6 +1,5 @@
 'use strict';
 
-
 var app = require('../../server');
 var request = require('supertest').agent(app.listen());
 
